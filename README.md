@@ -13,10 +13,11 @@
 ## 🧠 About Me
 
 * 🔧 18+ years working with IT infrastructure
-* 🐧 Linux Specialist (RedHat / AlmaLinux, Arch-based, Debian-based)
-* 📊 Strong background in Monitoring & Observability
-* 🐳 Experience with Docker, automation and platform engineering
-* 🚀 Currently focused on development and intelligent automation (AI + Ops)
+* 🐧 Linux Specialist (RedHat-based, Arch-based, Debian-based)
+* 🪟 Experience with Windows Server environments
+* 📊 Strong background in Monitoring, Observability & Security
+* 🐳 Focused on containers, automation and platform engineering
+* 🚀 Currently evolving into AI + Ops (AIOps / Intelligent Automation)
 
 ---
 
@@ -25,14 +26,14 @@
 ### 🐧 Infrastructure & OS
 
 ![Linux](https://img.shields.io/badge/Linux-Enterprise-red?style=for-the-badge\&logo=linux)
-![Arch](https://img.shields.io/badge/Arch_Linux-Based-Systems-blue?style=for-the-badge\&logo=archlinux)
-![Debian](https://img.shields.io/badge/Debian-Based-Systems-red?style=for-the-badge\&logo=debian)
+![Windows](https://img.shields.io/badge/Windows_Server-Infrastructure-blue?style=for-the-badge\&logo=windows)
 
 ---
 
 ### 📊 Observability & Monitoring
 
 ![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-red?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge\&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange?style=for-the-badge\&logo=grafana)
 ![Loki](https://img.shields.io/badge/Grafana_Loki-Logs-yellow?style=for-the-badge\&logo=grafana)
 ![Alloy](https://img.shields.io/badge/Grafana_Alloy-Collector-blue?style=for-the-badge\&logo=grafana)
@@ -43,8 +44,19 @@
 ### ⚙️ Automation & Orchestration
 
 ![Rundeck](https://img.shields.io/badge/Rundeck-Automation-purple?style=for-the-badge)
+![Kong](https://img.shields.io/badge/Kong_API-Gateway-black?style=for-the-badge\&logo=kong)
 ![Bash](https://img.shields.io/badge/Shell_Script-Automation-black?style=for-the-badge\&logo=gnubash)
 ![BAT](https://img.shields.io/badge/Windows_Batch-Scripting-blue?style=for-the-badge)
+
+---
+
+### 🔐 Security & SOAR Stack
+
+* TheHive (Incident Response)
+* Cortex (Automation & Analysis)
+* Wazuh (SIEM / Security Monitoring)
+* MISP (Threat Intelligence)
+* Suricata (IDS/IPS)
 
 ---
 
@@ -54,7 +66,7 @@
 
 ---
 
-### 🐳 DevOps & Data
+### 🐳 DevOps & Platform
 
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge\&logo=docker)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange?style=for-the-badge\&logo=mysql)
@@ -62,35 +74,70 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoereno\&show_icons=true\&theme=dark\&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoereno\&layout=compact\&theme=dark\&cache_seconds=86400)
-
-![Streak](https://streak-stats.demolab.com?user=leaoereno\&theme=dark)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leaoereno\&theme=github-dark)
-
----
-
 ## 🚀 Highlight Projects
 
 ### 🔥 Zabbix AI Assistant
 
-AI model to analyze alerts and recommend solutions based on historical data.
+AI-based system to analyze alerts and recommend solutions using historical patterns.
 
-### 🔐 SOAR Platform (Docker)
+---
 
-Full open-source SOAR stack (TheHive, Cortex, Wazuh, MISP, Elastic).
+### 🔐 SOAR Platform (Full Stack)
 
-### 🐳 Observability Stack
+Deployment of a complete security orchestration platform using:
 
-Centralized logging and monitoring using Grafana, Loki, Graylog and Docker.
+* TheHive + Cortex
+* Wazuh + Suricata
+* MISP (Threat Intelligence)
+* Elastic Stack
 
-### 💾 Automated Backup Platform
+📌 Focus:
 
-MySQL backup automation using Percona XtraBackup + NFS + restore pipeline.
+* Incident response automation
+* Threat correlation
+* Security observability
+
+---
+
+### 📊 Observability Platform
+
+Centralized monitoring and logging stack:
+
+* Zabbix + Prometheus (metrics)
+* Grafana (visualization)
+* Loki + Graylog (logs)
+
+📌 Focus:
+
+* High-scale monitoring
+* Log centralization
+* Performance analysis
+
+---
+
+### ⚙️ Automation Platform
+
+Infrastructure automation and orchestration using:
+
+* Rundeck
+* Shell Script / Bash / BAT
+* Kong API Gateway
+
+📌 Focus:
+
+* Job orchestration
+* API integration
+* Operational automation
+
+---
+
+### 💾 Backup & Data Reliability
+
+Automated backup pipeline:
+
+* Percona XtraBackup
+* NFS storage
+* Automated restore workflows
 
 ---
 
