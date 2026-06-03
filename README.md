@@ -52,11 +52,13 @@
 
 ### 🔐 Security & SOAR Stack
 
-* TheHive (Incident Response)
-* Cortex (Automation & Analysis)
-* Wazuh (SIEM / Security Monitoring)
-* MISP (Threat Intelligence)
-* Suricata (IDS/IPS)
+
+![TheHive](https://img.shields.io/badge/TheHive-Incident_Response-black?style=for-the-badge)
+![Cortex](https://img.shields.io/badge/Cortex-Analysis-blue?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-green?style=for-the-badge\&logo=wazuh)
+![MISP](https://img.shields.io/badge/MISP-Threat_Intel-orange?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-red?style=for-the-badge)
+
 
 ---
 
