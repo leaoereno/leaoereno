@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 * 🔧 18+ years working with IT infrastructure
-* 🐧 Linux Specialist (RedHat / AlmaLinux)
+* 🐧 Linux Specialist (RedHat / AlmaLinux, Arch-based, Debian-based)
 * 📊 Strong background in Monitoring & Observability
 * 🐳 Experience with Docker, automation and platform engineering
 * 🚀 Currently focused on development and intelligent automation (AI + Ops)
@@ -25,6 +25,8 @@
 ### 🐧 Infrastructure & OS
 
 ![Linux](https://img.shields.io/badge/Linux-Enterprise-red?style=for-the-badge\&logo=linux)
+![Arch](https://img.shields.io/badge/Arch_Linux-Based-Systems-blue?style=for-the-badge\&logo=archlinux)
+![Debian](https://img.shields.io/badge/Debian-Based-Systems-red?style=for-the-badge\&logo=debian)
 
 ---
 
@@ -62,9 +64,9 @@
 
 ## 📊 GitHub Metrics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoereno\&show_icons=true\&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leaoereno\&show_icons=true\&theme=dark\&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoereno\&layout=compact\&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leaoereno\&layout=compact\&theme=dark\&cache_seconds=86400)
 
 ![Streak](https://streak-stats.demolab.com?user=leaoereno\&theme=dark)
 
