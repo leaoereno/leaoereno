@@ -1,4 +1,4 @@
-<h1 align="center">👋 Rafael Ereno</h1>
+<h1 align="center">👋 Rafael M. A. Leão Ereno</h1>
 
 <h3 align="center">Senior Linux Engineer | Infrastructure | Observability | Automation</h3>
 
