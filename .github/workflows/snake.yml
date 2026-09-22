@@ -5,6 +5,10 @@ on:
     - cron: "0 0 * * *"   # roda todo dia à meia-noite
   workflow_dispatch:       # permite rodar manualmente
 
+# O GITHUB_TOKEN padrão é só leitura; sem isto o push para a branch `output` falha (exit 128).
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
