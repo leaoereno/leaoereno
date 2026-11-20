@@ -176,7 +176,7 @@ Automated backup pipeline:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leaoereno&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies">
+  <img src="https://trophy.ryglcloud.net/?username=leaoereno&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies">
 </p>
 
 <p align="center">
