@@ -1,6 +1,6 @@
-<h1 align="center">👋 Rafael M. A. Leão Ereno</h1>
-
-<h3 align="center">Senior Linux Engineer | Infrastructure | Observability | Security | Founder</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Rafael%20M.%20A.%20Le%C3%A3o%20Ereno&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=Senior%20Linux%20Engineer%20%7C%20Infrastructure%20%7C%20Observability%20%7C%20Security%20%7C%20Founder&descAlignY=55&descSize=16" alt="Header banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Senior+Linux+Engineer+%7C+Infrastructure+%26+Observability;18%2B+years+turning+complex+infrastructure+into+reliable+systems;Founder+of+VamoMarca%2C+FormaOS+%26+Breachscope" alt="Typing SVG" />
@@ -59,6 +59,10 @@ Continuous security platform for code, web applications and networks — SAST, D
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,bash,git,mysql,grafana,prometheus&theme=dark" alt="Skill icons" />
+</p>
 
 ### 🐧 Infrastructure & OS
 
@@ -169,6 +173,10 @@ Automated backup pipeline:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leaoereno&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leaoereno&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies">
 </p>
 
 <p align="center">
